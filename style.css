@@ -1,0 +1,8 @@
+#weather-content {
+    display: flex;
+    align-items: center;
+}
+
+#weather-icon {
+    margin-right: 10px;
+}
